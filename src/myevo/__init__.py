@@ -1,0 +1,4 @@
+# version: 0.1.0
+# version-date: 2026-10-04
+# checksum: sha256:0000000000000000000000000000000000000000000000000000000000000000
+"""myevo verification package."""
